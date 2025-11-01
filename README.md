@@ -2,9 +2,9 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](profile.com)
+![Linkedin profile]([profile.com](https://www.linkedin.com/in/sbely/))
 
-I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone 🌎. I'm a huge fan of Node.js, TypeScript, open-source, and writing testable software 💻. When I'm not crushing bugs or building dreams, I can be found playing golf 🏌️, playing hockey 🏒, snowboarding 🏂, lifting weights 🏋️, and spending time with my beautiful wife Cassie ❤️.
+Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testable software ✅. On the frontend, I work with React ⚛️, TypeScript 🟦, and Vue 🟢; on the backend I’m comfortable with Java ☕ and Spring 🌱. I value clear APIs 🔗, maintainable code 🧼, and good observability 🔭. When I’m not shipping features, you’ll find me snowboarding 🏂, cycling 🚴‍♂️, sketching 🎨, or lifting 🏋️.
 
 ## 🔭 I'm currently working on
 
