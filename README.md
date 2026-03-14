@@ -10,3 +10,8 @@
 </a>
 
 Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testable software ✅. On the frontend, I work with React ⚛️, TypeScript 🟦, and Vue 🟢; on the backend I’m comfortable with Java ☕ and Spring 🌱. I value clear APIs 🔗, maintainable code 🧼, and good observability 🔭. When I’m not shipping features, you’ll find me snowboarding 🏂, cycling 🚴‍♂️, sketching 🎨, or lifting 🏋️.
+
+
+## 🚀 Projects
+
+[Dimension. Three.js courses]([https://example.com](https://cola-advertisement.vercel.app/])
