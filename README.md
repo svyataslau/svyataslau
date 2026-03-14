@@ -14,4 +14,4 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 
 ## 🚀 Projects
 
-[Dimension. Three.js courses]([https://example.com](https://cola-advertisement.vercel.app/])
+[Dimension. Three.js courses]([https://example.com](https://cola-advertisement.vercel.app/)
