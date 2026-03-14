@@ -20,7 +20,7 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 **Dimension. Three.js** — 3D web project with interactive graphics.
 
 <a href="http://3.127.66.7:3000">
-  <img src="./images/auth-service.png" alt="Auth Service Logo" height="10px" />
+  <img src="./images/auth.png" alt="Auth Service Logo" height="10px" />
 </a>
 **Authentication Service** — Deployed on AWS.
 
