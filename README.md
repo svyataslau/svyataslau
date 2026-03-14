@@ -14,11 +14,17 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 
 ## 🚀 Projects
 
-[![Dimension. Three.js](./images/dimension.png)](https://cola-advertisement.vercel.app/)
+<a href="https://cola-advertisement.vercel.app/">
+  <img src="./images/dimension.png" alt="Dimension Logo" height="5px" />
+</a>
 **Dimension. Three.js** — 3D web project with interactive graphics.
 
-[![Authentification service. Deployed on AWS](./images/auth.png)](http://3.127.66.7:3000)
+<a href="http://3.127.66.7:3000">
+  <img src="./images/auth-service.png" alt="Auth Service Logo" height="5px" />
+</a>
 **Authentication Service** — Deployed on AWS.
 
-[![Authentification service. Swagger](./images/swagger.png)](http://3.124.217.170:8070/api/swagger-ui/index.html)
+<a href="http://3.124.217.170:8070/api/swagger-ui/index.html">
+  <img src="./images/swagger.png" alt="Swagger Logo" height="5px" />
+</a>
 **Authentication Service Swagger** — API documentation.
