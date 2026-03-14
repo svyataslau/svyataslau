@@ -17,14 +17,14 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 <a href="https://cola-advertisement.vercel.app/">
   <img src="./images/dimension.png" alt="Dimension Logo" height="10px" />
 </a>
-**Dimension. Three.js** — 3D web project with interactive graphics.
+<strong></strong>Dimension. Three.js</strong> — 3D web project with interactive graphics.
 
 <a href="http://3.127.66.7:3000">
   <img src="./images/auth.png" alt="Auth Service Logo" height="10px" />
 </a>
-**Authentication Service** — Deployed on AWS.
+<strong>Authentication Service</strong> — Deployed on AWS.
 
 <a href="http://3.124.217.170:8070/api/swagger-ui/index.html">
   <img src="./images/swagger.png" alt="Swagger Logo" height="10px" />
 </a>
-**Authentication Service Swagger** — API documentation.
+<strong>Authentication Service Swagger</strong> — API documentation.
