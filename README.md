@@ -9,6 +9,8 @@
   />
 </a>
 
+[![The H8 Project](images/banner.png)](https://self-presentation-2026.vercel.app/)
+
 Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testable software ✅. On the frontend, I work with
 React ⚛️, TypeScript 🟦, and Vue 🟢; on the backend I’m comfortable with Java ☕ and Spring 🌱. I value clear APIs 🔗,
 maintainable code 🧼, and good observability 🔭. When I’m not shipping features, you’ll find me snowboarding 🏂, cycling
@@ -92,5 +94,19 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
     <td><a href="https://github.com/svyataslau/contact-book"><b>Contact book</b></a></td>
     <td></td>
     <td><a href="https://contact-book-test2.vercel.app/">CODE SUPER OUTDATED</a></td>
+  </tr>
+
+<tr>
+    <td></td>
+    <td><a href="https://github.com/svyataslau/cv-2025"><b>War community</b></a></td>
+    <td></td>
+    <td><a href="https://cv-2025-xi.vercel.app/">CODE SUPER OUTDATED</a></td>
+  </tr>
+
+<tr>
+    <td><img src="./images/thechallenge.png" height="30"/></td>
+    <td><a href="https://github.com/svyataslau/self-presentation-2026"><b>Self presentation</b></a></td>
+    <td></td>
+    <td><a href="https://self-presentation-2026.vercel.app/">DURING DEVELOPMENT</a></td>
   </tr>
 </table>
