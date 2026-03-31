@@ -14,54 +14,59 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 
 ## 🚀 Projects
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <div style="display: flex; align-items: start; gap: 10px;">
-    <a href="https://github.com/svyataslau/monster-product-site" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/dimension.png" alt="Dimension Logo" height="30" style="vertical-align: middle;" />
-      Dimension. Three.js
-    </a>
-    <span>— 3D web project with interactive graphics.</span>
-    <a href="https://cola-advertisement.vercel.app/">
-      DEPLOYED
-    </a>
-  </div>
+<div style="
+  display: grid;
+  grid-template-columns: auto 250px 1fr 140px;
+  gap: 10px 15px;
+  align-items: center;
+">
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://github.com/svyataslau/sv-corp-auth" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/auth.png" alt="Auth Service Logo" height="30" style="vertical-align: middle;" />
-      Authentication Service
-    </a>
-    <a href="http://3.124.217.170:3000">
-      DEPLOYED on AWS
-    </a>
-  </div>
+  <!-- Dimension -->
+  <img src="./images/dimension.png" height="30" />
+  <a href="https://github.com/svyataslau/monster-product-site" style="font-weight: bold; text-decoration: none;">
+    Dimension. Three.js 
+  </a>
+  <span>3D web project with interactive graphics</span>
+  <a href="https://cola-advertisement.vercel.app/">DEPLOYED</a>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://github.com/svyataslau/sv-corp-auth" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/swagger.png" alt="Swagger Logo" height="30" style="vertical-align: middle;" />
-      Authentication Service Swagger
-    </a>
-    <span>— API documentation.</span>
-<a href="http://3.124.217.170:8070/api/swagger-ui/index.html">
-      DEPLOYED on AWS
-    </a>
-  </div>
+  <!-- Auth Service -->
+  <img src="./images/auth.png" height="30" />
+  <a href="https://github.com/svyataslau/sv-corp-auth" style="font-weight: bold; text-decoration: none;">
+    Authentication Service [Private repo]
+  </a>
+  <span></span>
+  <a href="http://<replace_with_ip>:3000">MIGHT BE DEPLOYED ON AWS (ask me)</a>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://github.com/svyataslau/atm-console" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/atm-console.webp" alt="ATM Console Logo" height="30" style="vertical-align: middle;" />
-      ATM Console
-    </a>
-    <span>— console-based ATM application.</span>
-  </div>
+  <!-- Swagger -->
+  <img src="./images/swagger.png" height="30" />
+  <a href="https://github.com/svyataslau/sv-corp-auth" style="font-weight: bold; text-decoration: none;">
+    Authentication Service Swagger [Private repo]
+  </a>
+  <span>API documentation</span>
+  <a href="http://<replace_with_ip>:8070/api/swagger-ui/index.html">MIGHT BE DEPLOYED ON AWS (ask me)</a>
 
-  <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="https://github.com/svyataslau/Analyser" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/music-logo.webp" alt="ATM Console Logo" height="30" style="vertical-align: middle;" />
-      Analyser
-    </a>
-    <a href="https://analyser-seven.vercel.app/">
-      DEPLOYED
-    </a>
-  </div>
+  <!-- ATM -->
+  <img src="./images/atm-console.webp" height="30" />
+  <a href="https://github.com/svyataslau/atm-console" style="font-weight: bold; text-decoration: none;">
+    ATM Console
+  </a>
+  <span>console-based ATM application</span>
+    <a href="https://github.com/svyataslau/atm-console">REPO</a>
+
+  <!-- Cyber Party -->
+  <img src="./images/music-logo.webp" height="30" />
+  <a href="https://github.com/svyataslau/Analyser" style="font-weight: bold; text-decoration: none;">
+    CYBER PARTY
+  </a>
+  <span></span>
+  <a href="https://analyser-seven.vercel.app/">DEPLOYED</a>
+
+  <!-- Translation -->
+  <img src="./images/b-translation.svg" height="30" />
+  <a href="https://blagodatskih.com/" style="font-weight: bold; text-decoration: none;">
+    Translation Agency
+  </a>
+  <span></span>
+  <a href="https://blagodatskih.com/">DEPLOYED</a>
+
 </div>
