@@ -1,4 +1,4 @@
-[![The H8 Project](images/banner.png)](https://self-presentation-2026.vercel.app/)
+[![The H8 Project](images/company-logo.png)](https://self-presentation-2026.vercel.app/)
 
 #### Hi! 👋 My name is Sviataslau
 I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testable software ✅. On the frontend, I work with
