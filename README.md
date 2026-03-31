@@ -70,7 +70,7 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
     <td><img src="./images/clear-app.svg" height="30"/></td>
     <td><a href="https://github.com/svyataslau/clear-frontend-app"><b>Clear (Social media app)</b></a></td>
     <td>Storybook components consumer app</td>
-    <td><a href="https://clear-frontend-app.vercel.app/">DEPLOYED</a></td>
+    <td><a href="https://clear-frontend-app-nine.vercel.app/">DEPLOYED</a></td>
   </tr>
 
 <tr>
