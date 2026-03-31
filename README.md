@@ -24,7 +24,8 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="http://3.127.66.7:3000" style="text-decoration: none; font-weight: bold;">
+    <a href="https://github.com/svyataslau/sv-corp-auth" style="text-decoration: none; font-weight: bold;">
+      <!-- Deploy http://3.124.217.170:3000 -->
       <img src="./images/auth.png" alt="Auth Service Logo" height="30" style="vertical-align: middle;" />
       Authentication Service
     </a>
@@ -32,7 +33,8 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="http://3.124.217.170:8070/api/swagger-ui/index.html" style="text-decoration: none; font-weight: bold;">
+    <a href="https://github.com/svyataslau/sv-corp-auth" style="text-decoration: none; font-weight: bold;">
+      <!-- Deploy http://3.124.217.170:8070/api/swagger-ui/index.html -->
       <img src="./images/swagger.png" alt="Swagger Logo" height="30" style="vertical-align: middle;" />
       Authentication Service Swagger
     </a>
@@ -40,7 +42,7 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
   </div>
 
   <div style="display: flex; align-items: center; gap: 10px;">
-    <a href="http://3.124.217.170:8070/api/swagger-ui/index.html" style="text-decoration: none; font-weight: bold;">
+    <a href="https://github.com/svyataslau/atm-console" style="text-decoration: none; font-weight: bold;">
       <img src="./images/atm-console.webp" alt="ATM Console Logo" height="30" style="vertical-align: middle;" />
       ATM Console
     </a>
