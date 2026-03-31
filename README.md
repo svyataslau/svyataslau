@@ -41,7 +41,7 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 
   <div style="display: flex; align-items: center; gap: 10px;">
     <a href="http://3.124.217.170:8070/api/swagger-ui/index.html" style="text-decoration: none; font-weight: bold;">
-      <img src="./images/atm-console.png" alt="ATM Console Logo" height="30" style="vertical-align: middle;" />
+      <img src="./images/atm-console.webp" alt="ATM Console Logo" height="30" style="vertical-align: middle;" />
       ATM Console
     </a>
     <span>— console-based ATM application.</span>
