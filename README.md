@@ -14,13 +14,7 @@ Hi! I’m a Poland-based developer 🇵🇱 who enjoys crafting reliable, testab
 
 ## 🚀 Projects
 
-<div style="
-  display: grid;
-  grid-template-columns: auto 250px 1fr 140px;
-  gap: 10px 15px;
-  align-items: center;
-">
-
+<div style="display: grid;grid-template-columns: auto 250px 1fr 140px;gap: 10px 15px;align-items: center;">
   <!-- Dimension -->
   <img src="./images/dimension.png" height="30" />
   <a href="https://github.com/svyataslau/monster-product-site" style="font-weight: bold; text-decoration: none;">
