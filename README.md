@@ -15,6 +15,13 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
 
 <table>
   <tr>
+    <td><img src="./images/oni.png" height="30"/></td>
+    <td><a href="oni-nine.vercel.app"><b>Oni</b></a></td>
+    <td>Undetectable coding assistent</td>
+    <td><a href="oni-nine.vercel.app">DEPLOYED</a></td>
+  </tr>
+
+  <tr>
     <td><img src="./images/dimension.png" height="30"/></td>
     <td><a href="https://github.com/svyataslau/monster-product-site"><b>Dimension. Three.js</b></a></td>
     <td>3D web project with interactive graphics</td>
