@@ -109,7 +109,7 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
     <td><img src="./images/thechallenge.png" height="30"/></td>
     <td><a href="https://github.com/svyataslau/self-presentation-2026"><b>Self presentation</b></a></td>
     <td></td>
-    <td><a href="https://self-presentation-2026.vercel.app/">DURING DEVELOPMENT</a></td>
+    <td><a href="https://self-presentation-2026.vercel.app/">DEPLOYED</a></td>
   </tr>
 </table>
 
