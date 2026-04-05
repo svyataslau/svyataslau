@@ -16,9 +16,9 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
 <table>
   <tr>
     <td><img src="./images/oni.png" height="30"/></td>
-    <td><a href="oni-nine.vercel.app"><b>Oni</b></a></td>
+    <td><a href="https://oni-nine.vercel.app/"><b>Oni</b></a></td>
     <td>Undetectable coding assistent</td>
-    <td><a href="oni-nine.vercel.app">DEPLOYED</a></td>
+    <td><a href="https://oni-nine.vercel.app/">DEPLOYED</a></td>
   </tr>
 
   <tr>
