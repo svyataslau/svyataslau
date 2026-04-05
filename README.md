@@ -56,13 +56,6 @@ maintainable code 🧼, and good observability 🔭. When I’m not shipping fea
     <td><a href="https://analyser-seven.vercel.app/">DEPLOYED</a></td>
   </tr>
 
-  <tr>
-    <td><img src="./images/b-translation.svg" height="30"/></td>
-    <td><a href="https://blagodatskih.com/"><b>Translation Agency</b></a></td>
-    <td></td>
-    <td><a href="https://blagodatskih.com/">DEPLOYED</a></td>
-  </tr>
-
 <tr>
     <td><img src="./images/clear-app.svg" height="30"/></td>
     <td><a href="https://github.com/svyataslau/clear-ui-lib"><b>Clear UI Storybook</b></a></td>
